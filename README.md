@@ -5,7 +5,7 @@ This project is a habit tracker used to track the habits of of the User on daily
 To run this application on your local machine, please follow these steps:
 
 Clone this repository using the following command:
-https://github.com/tapan77777/Habit-Tracker-CodingNinjas.git
+https://github.com/shivanshudadheech/Habit-Tracker-CodingNinjas.git
 
 Install the required dependencies using the following command:
 $ npm install 
